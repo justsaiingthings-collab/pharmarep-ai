@@ -1,0 +1,18 @@
+# Secrets — never commit
+.env
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+
+# Generated files
+__pycache__/
+*.pyc
+*.pyo
+*.db
+
+# Dev-only previews
+app.html
+pharma_preview.html
+*.command

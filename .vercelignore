@@ -1,0 +1,9 @@
+# Never deploy secrets or local dev files
+.env
+*.command
+__pycache__/
+*.pyc
+*.pyo
+pharma_rep.db
+app.html
+pharma_preview.html
